@@ -2,7 +2,9 @@
 
 Teste de Python
 Instalar os pacotes:
+
   pip install requests
+  
   pip install beautifulsoup4
 
 Usei o visual code com plugins do python
