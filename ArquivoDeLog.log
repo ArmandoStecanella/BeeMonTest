@@ -1,0 +1,88 @@
+2025-06-13 10:32:01,962 - INFO - Iniciando Programa Teste BeeMon
+2025-06-13 10:32:01,963 - INFO - Buscando filmes da url
+2025-06-13 10:32:04,772 - INFO - Verificando status
+2025-06-13 10:32:04,773 - INFO - Status: OK
+2025-06-13 10:32:04,774 - INFO - Extraindo filmes
+2025-06-13 10:32:04,815 - INFO - Extraido: 1. Um Sonho de Liberdade
+2025-06-13 10:32:04,815 - INFO - Extraido: 2. O Poderoso Chefão
+2025-06-13 10:32:04,816 - INFO - Extraido: 3. Batman: O Cavaleiro das Trevas
+2025-06-13 10:32:04,816 - INFO - Extraido: 4. O Poderoso Chefão: Parte II
+2025-06-13 10:32:04,817 - INFO - Extraido: 5. 12 Homens e uma Sentença
+2025-06-13 10:32:04,817 - INFO - Extraido: 6. O Senhor dos Anéis: O Retorno do Rei
+2025-06-13 10:32:04,817 - INFO - Extraido: 7. A Lista de Schindler
+2025-06-13 10:32:04,817 - INFO - Extraido: 8. Pulp Fiction: Tempo de Violência
+2025-06-13 10:32:04,818 - INFO - Extraido: 9. O Senhor dos Anéis: A Sociedade do Anel
+2025-06-13 10:32:04,818 - INFO - Extraido: 10. Três Homens em Conflito
+2025-06-13 10:32:04,818 - INFO - Extraido: 11. Forrest Gump: O Contador de Histórias
+2025-06-13 10:32:04,818 - INFO - Extraido: 12. O Senhor dos Anéis: As Duas Torres
+2025-06-13 10:32:04,818 - INFO - Extraido: 13. Clube da Luta
+2025-06-13 10:32:04,818 - INFO - Extraido: 14. A Origem
+2025-06-13 10:32:04,819 - INFO - Extraido: 15. Star Wars: Episódio V - O Império Contra-Ataca
+2025-06-13 10:32:04,819 - INFO - Extraido: 16. Matrix
+2025-06-13 10:32:04,819 - INFO - Extraido: 17. Os Bons Companheiros
+2025-06-13 10:32:04,819 - INFO - Extraido: 18. Interestelar
+2025-06-13 10:32:04,819 - INFO - Extraido: 19. Um Estranho no Ninho
+2025-06-13 10:32:04,820 - INFO - Extraido: 20. Seven - Os Sete Crimes Capitais
+2025-06-13 10:32:04,820 - INFO - Extraido: 21. A Felicidade Não se Compra
+2025-06-13 10:32:04,820 - INFO - Extraido: 22. O Silêncio dos Inocentes
+2025-06-13 10:32:04,821 - INFO - Extraido: 23. Os Sete Samurais
+2025-06-13 10:32:04,821 - INFO - Extraido: 24. O Resgate do Soldado Ryan
+2025-06-13 10:32:04,821 - INFO - Extraido: 25. Cidade de Deus
+2025-06-13 10:32:04,821 - INFO - Extração completa
+2025-06-13 10:32:04,821 - INFO - Listando os filmes
+2025-06-13 10:32:04,821 - INFO - Titulo: 1. Um Sonho de Liberdade Ano: 1994 Duração: 2h 22m Idade: 16 Nota: 9,3
+2025-06-13 10:32:04,821 - INFO - Titulo: 2. O Poderoso Chefão Ano: 1972 Duração: 2h 55m Idade: 14 Nota: 9,2
+2025-06-13 10:32:04,821 - INFO - Titulo: 3. Batman: O Cavaleiro das Trevas Ano: 2008 Duração: 2h 32m Idade: 12 Nota: 9,0
+2025-06-13 10:32:04,822 - INFO - Titulo: 4. O Poderoso Chefão: Parte II Ano: 1974 Duração: 3h 22m Idade: 14 Nota: 9,0
+2025-06-13 10:32:04,822 - INFO - Titulo: 5. 12 Homens e uma Sentença Ano: 1957 Duração: 1h 36m Idade: Livre Nota: 9,0
+2025-06-13 10:32:04,822 - INFO - Titulo: 6. O Senhor dos Anéis: O Retorno do Rei Ano: 2003 Duração: 3h 21m Idade: 12 Nota: 9,0
+2025-06-13 10:32:04,822 - INFO - Titulo: 7. A Lista de Schindler Ano: 1993 Duração: 3h 15m Idade: 14 Nota: 9,0
+2025-06-13 10:32:04,822 - INFO - Titulo: 8. Pulp Fiction: Tempo de Violência Ano: 1994 Duração: 2h 34m Idade: 18 Nota: 8,8
+2025-06-13 10:32:04,822 - INFO - Titulo: 9. O Senhor dos Anéis: A Sociedade do Anel Ano: 2001 Duração: 2h 58m Idade: 12 Nota: 8,9
+2025-06-13 10:32:04,822 - INFO - Titulo: 10. Três Homens em Conflito Ano: 1966 Duração: 2h 41m Idade: 14 Nota: 8,8
+2025-06-13 10:32:04,822 - INFO - Titulo: 11. Forrest Gump: O Contador de Histórias Ano: 1994 Duração: 2h 22m Idade: 14 Nota: 8,8
+2025-06-13 10:32:04,822 - INFO - Titulo: 12. O Senhor dos Anéis: As Duas Torres Ano: 2002 Duração: 2h 59m Idade: 12 Nota: 8,8
+2025-06-13 10:32:04,822 - INFO - Titulo: 13. Clube da Luta Ano: 1999 Duração: 2h 19m Idade: 18 Nota: 8,8
+2025-06-13 10:32:04,822 - INFO - Titulo: 14. A Origem Ano: 2010 Duração: 2h 28m Idade: 14 Nota: 8,8
+2025-06-13 10:32:04,822 - INFO - Titulo: 15. Star Wars: Episódio V - O Império Contra-Ataca Ano: 1980 Duração: 2h 4m Idade: Livre Nota: 8,7
+2025-06-13 10:32:04,823 - INFO - Titulo: 16. Matrix Ano: 1999 Duração: 2h 16m Idade: 14 Nota: 8,7
+2025-06-13 10:32:04,823 - INFO - Titulo: 17. Os Bons Companheiros Ano: 1990 Duração: 2h 25m Idade: 14 Nota: 8,7
+2025-06-13 10:32:04,823 - INFO - Titulo: 18. Interestelar Ano: 2014 Duração: 2h 49m Idade: 10 Nota: 8,7
+2025-06-13 10:32:04,823 - INFO - Titulo: 19. Um Estranho no Ninho Ano: 1975 Duração: 2h 13m Idade: 16 Nota: 8,7
+2025-06-13 10:32:04,823 - INFO - Titulo: 20. Seven - Os Sete Crimes Capitais Ano: 1995 Duração: 2h 7m Idade: 14 Nota: 8,6
+2025-06-13 10:32:04,823 - INFO - Titulo: 21. A Felicidade Não se Compra Ano: 1946 Duração: 2h 10m Idade: Livre Nota: 8,6
+2025-06-13 10:32:04,824 - INFO - Titulo: 22. O Silêncio dos Inocentes Ano: 1991 Duração: 1h 58m Idade: 14 Nota: 8,6
+2025-06-13 10:32:04,824 - INFO - Titulo: 23. Os Sete Samurais Ano: 1954 Duração: 3h 27m Idade: 10 Nota: 8,6
+2025-06-13 10:32:04,824 - INFO - Titulo: 24. O Resgate do Soldado Ryan Ano: 1998 Duração: 2h 49m Idade: 14 Nota: 8,6
+2025-06-13 10:32:04,824 - INFO - Titulo: 25. Cidade de Deus Ano: 2002 Duração: 2h 10m Idade: 18 Nota: 8,6
+2025-06-13 10:32:04,824 - INFO - Total de filmes: 25
+2025-06-13 10:32:04,824 - INFO - Converter para Json
+2025-06-13 10:32:04,824 - INFO - {"titulo": "1. Um Sonho de Liberdade", "ano": "1994", "duracao": "2h 22m", "idade": "16", "nota": "9,3"}
+2025-06-13 10:32:04,824 - INFO - {"titulo": "2. O Poderoso Chef\u00e3o", "ano": "1972", "duracao": "2h 55m", "idade": "14", "nota": "9,2"}
+2025-06-13 10:32:04,824 - INFO - {"titulo": "3. Batman: O Cavaleiro das Trevas", "ano": "2008", "duracao": "2h 32m", "idade": "12", "nota": "9,0"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "4. O Poderoso Chef\u00e3o: Parte II", "ano": "1974", "duracao": "3h 22m", "idade": "14", "nota": "9,0"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "5. 12 Homens e uma Senten\u00e7a", "ano": "1957", "duracao": "1h 36m", "idade": "Livre", "nota": "9,0"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "6. O Senhor dos An\u00e9is: O Retorno do Rei", "ano": "2003", "duracao": "3h 21m", "idade": "12", "nota": "9,0"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "7. A Lista de Schindler", "ano": "1993", "duracao": "3h 15m", "idade": "14", "nota": "9,0"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "8. Pulp Fiction: Tempo de Viol\u00eancia", "ano": "1994", "duracao": "2h 34m", "idade": "18", "nota": "8,8"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "9. O Senhor dos An\u00e9is: A Sociedade do Anel", "ano": "2001", "duracao": "2h 58m", "idade": "12", "nota": "8,9"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "10. Tr\u00eas Homens em Conflito", "ano": "1966", "duracao": "2h 41m", "idade": "14", "nota": "8,8"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "11. Forrest Gump: O Contador de Hist\u00f3rias", "ano": "1994", "duracao": "2h 22m", "idade": "14", "nota": "8,8"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "12. O Senhor dos An\u00e9is: As Duas Torres", "ano": "2002", "duracao": "2h 59m", "idade": "12", "nota": "8,8"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "13. Clube da Luta", "ano": "1999", "duracao": "2h 19m", "idade": "18", "nota": "8,8"}
+2025-06-13 10:32:04,825 - INFO - {"titulo": "14. A Origem", "ano": "2010", "duracao": "2h 28m", "idade": "14", "nota": "8,8"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "15. Star Wars: Epis\u00f3dio V - O Imp\u00e9rio Contra-Ataca", "ano": "1980", "duracao": "2h 4m", "idade": "Livre", "nota": "8,7"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "16. Matrix", "ano": "1999", "duracao": "2h 16m", "idade": "14", "nota": "8,7"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "17. Os Bons Companheiros", "ano": "1990", "duracao": "2h 25m", "idade": "14", "nota": "8,7"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "18. Interestelar", "ano": "2014", "duracao": "2h 49m", "idade": "10", "nota": "8,7"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "19. Um Estranho no Ninho", "ano": "1975", "duracao": "2h 13m", "idade": "16", "nota": "8,7"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "20. Seven - Os Sete Crimes Capitais", "ano": "1995", "duracao": "2h 7m", "idade": "14", "nota": "8,6"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "21. A Felicidade N\u00e3o se Compra", "ano": "1946", "duracao": "2h 10m", "idade": "Livre", "nota": "8,6"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "22. O Sil\u00eancio dos Inocentes", "ano": "1991", "duracao": "1h 58m", "idade": "14", "nota": "8,6"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "23. Os Sete Samurais", "ano": "1954", "duracao": "3h 27m", "idade": "10", "nota": "8,6"}
+2025-06-13 10:32:04,826 - INFO - {"titulo": "24. O Resgate do Soldado Ryan", "ano": "1998", "duracao": "2h 49m", "idade": "14", "nota": "8,6"}
+2025-06-13 10:32:04,827 - INFO - {"titulo": "25. Cidade de Deus", "ano": "2002", "duracao": "2h 10m", "idade": "18", "nota": "8,6"}
+2025-06-13 10:32:04,827 - INFO - Criando arquivo Json Filmes.json
+2025-06-13 10:32:04,827 - INFO - Json concluido
+2025-06-13 10:32:04,827 - INFO - Mostrar Json
+2025-06-13 10:32:04,828 - INFO - {'filmes': ['{"titulo": "1. Um Sonho de Liberdade", "ano": "1994", "duracao": "2h 22m", "idade": "16", "nota": "9,3"}', '{"titulo": "2. O Poderoso Chef\\u00e3o", "ano": "1972", "duracao": "2h 55m", "idade": "14", "nota": "9,2"}', '{"titulo": "3. Batman: O Cavaleiro das Trevas", "ano": "2008", "duracao": "2h 32m", "idade": "12", "nota": "9,0"}', '{"titulo": "4. O Poderoso Chef\\u00e3o: Parte II", "ano": "1974", "duracao": "3h 22m", "idade": "14", "nota": "9,0"}', '{"titulo": "5. 12 Homens e uma Senten\\u00e7a", "ano": "1957", "duracao": "1h 36m", "idade": "Livre", "nota": "9,0"}', '{"titulo": "6. O Senhor dos An\\u00e9is: O Retorno do Rei", "ano": "2003", "duracao": "3h 21m", "idade": "12", "nota": "9,0"}', '{"titulo": "7. A Lista de Schindler", "ano": "1993", "duracao": "3h 15m", "idade": "14", "nota": "9,0"}', '{"titulo": "8. Pulp Fiction: Tempo de Viol\\u00eancia", "ano": "1994", "duracao": "2h 34m", "idade": "18", "nota": "8,8"}', '{"titulo": "9. O Senhor dos An\\u00e9is: A Sociedade do Anel", "ano": "2001", "duracao": "2h 58m", "idade": "12", "nota": "8,9"}', '{"titulo": "10. Tr\\u00eas Homens em Conflito", "ano": "1966", "duracao": "2h 41m", "idade": "14", "nota": "8,8"}', '{"titulo": "11. Forrest Gump: O Contador de Hist\\u00f3rias", "ano": "1994", "duracao": "2h 22m", "idade": "14", "nota": "8,8"}', '{"titulo": "12. O Senhor dos An\\u00e9is: As Duas Torres", "ano": "2002", "duracao": "2h 59m", "idade": "12", "nota": "8,8"}', '{"titulo": "13. Clube da Luta", "ano": "1999", "duracao": "2h 19m", "idade": "18", "nota": "8,8"}', '{"titulo": "14. A Origem", "ano": "2010", "duracao": "2h 28m", "idade": "14", "nota": "8,8"}', '{"titulo": "15. Star Wars: Epis\\u00f3dio V - O Imp\\u00e9rio Contra-Ataca", "ano": "1980", "duracao": "2h 4m", "idade": "Livre", "nota": "8,7"}', '{"titulo": "16. Matrix", "ano": "1999", "duracao": "2h 16m", "idade": "14", "nota": "8,7"}', '{"titulo": "17. Os Bons Companheiros", "ano": "1990", "duracao": "2h 25m", "idade": "14", "nota": "8,7"}', '{"titulo": "18. Interestelar", "ano": "2014", "duracao": "2h 49m", "idade": "10", "nota": "8,7"}', '{"titulo": "19. Um Estranho no Ninho", "ano": "1975", "duracao": "2h 13m", "idade": "16", "nota": "8,7"}', '{"titulo": "20. Seven - Os Sete Crimes Capitais", "ano": "1995", "duracao": "2h 7m", "idade": "14", "nota": "8,6"}', '{"titulo": "21. A Felicidade N\\u00e3o se Compra", "ano": "1946", "duracao": "2h 10m", "idade": "Livre", "nota": "8,6"}', '{"titulo": "22. O Sil\\u00eancio dos Inocentes", "ano": "1991", "duracao": "1h 58m", "idade": "14", "nota": "8,6"}', '{"titulo": "23. Os Sete Samurais", "ano": "1954", "duracao": "3h 27m", "idade": "10", "nota": "8,6"}', '{"titulo": "24. O Resgate do Soldado Ryan", "ano": "1998", "duracao": "2h 49m", "idade": "14", "nota": "8,6"}', '{"titulo": "25. Cidade de Deus", "ano": "2002", "duracao": "2h 10m", "idade": "18", "nota": "8,6"}']}
